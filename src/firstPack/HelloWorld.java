@@ -10,8 +10,8 @@ public class HelloWorld {
 		System.out.println("Alam");System.out.println("Alam");
 		
 		
-		System.out.println("Alam");
-		System.out.println("Alam");
+		System.out.println("AlamUIUGIUGIUKBKJBKJ");
+		System.out.println("AlamJBBJBJBJB");
 		
 		System.out.println("Alam");//cSystem.out.println("Alam");
 		System.out.println("Alam");
