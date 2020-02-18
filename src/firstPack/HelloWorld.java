@@ -12,6 +12,7 @@ public class HelloWorld {
 		
 		System.out.println("AlamUIUGIUGIUKBKJBKJ");
 		System.out.println("AlamJBBJBJBJB");
+		//JGIGIUGIUGIUG
 		
 		System.out.println("Alam");//cSystem.out.println("Alam");
 		System.out.println("Alam");
